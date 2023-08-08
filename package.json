@@ -1,0 +1,44 @@
+{
+  "name": "webwrap-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "📢 Welcome to the GitHub repository unveiling the digital masterpiece by WebWrap Studio. This platform magnifies our web development agency's prowess, meticulously fashioned using Next.js, React, TypeScript, ESLint, and Tailwind CSS. The dynamic architecture echoes our unswerving dedication to innovation, adeptly morphing across a panorama of screens.💡 Navigate seamlessly through our intuitive interface, elegantly showcasing our portfolio and effortlessly harmonizing cutting-edge technologies. Embark on an expedition into contemporary web development, where the fusion of code and design orchestrates a symphony of creativity and expertise.🚀",
+  "author": "Shahadat Hossain, shahadat3669 <shahadat3669@gamil.com>",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.19",
+    "@types/react-dom": "18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "autoprefixer": "10.4.14",
+    "eslint": "^8.46.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^17.1.0",
+    "eslint-config-next": "^13.4.13",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-react": "^7.33.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-tailwindcss": "^3.13.0",
+    "eslint-plugin-unused-imports": "^3.0.0",
+    "postcss": "8.4.27",
+    "prettier": "^3.0.1",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6"
+  },
+  "copyright": "shahadat3669"
+}
